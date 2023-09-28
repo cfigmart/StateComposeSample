@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StateComposeSample</string>
+    <string name="update_count">Aggiornare Conto</string>
+    <string name="name_user">Nome</string>
+</resources>

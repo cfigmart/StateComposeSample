@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StateComposeSample</string>
+    <string name="update_count">Update Count</string>
+    <string name="name_user">Name</string>
+</resources>
